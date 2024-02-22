@@ -2,6 +2,7 @@
 
 I work on audio plugins and I've created a few public utilities (C/C++/JS/Python) along the way which may interest you.
 
+- 🔌 [CPLUG](https://github.com/Tremus/CPLUG) - Thin C wrapper for VST3, AUv2, CLAP, and standalone builds with hot reloading.
 - 📋 [Awesome Audio Plugin Framework](https://github.com/Tremus/awesome-audio-plugin-framework) - List of small libraries for quickly bootstraping your own audio plugin templates (WIP)
 - 🎨 [nanovg_compat](https://github.com/Tremus/nanovg_compat) - Wraps my forks of the Metal and DirectX 11 ports of [NanoVG](https://github.com/memononen/nanovg). Contains a few extra utilities. Lazily named
 - 🎨 [juce_nanovg](https://github.com/Tremus/juce_nanovg) - Demonstration of 2 ways to use NanoVG within a JUCE app/plugin
